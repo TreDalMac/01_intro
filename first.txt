@@ -1,3 +1,4 @@
 this is my first file.
+you forgot a second line.
 Here is a line in the middle.
 it is a wonderful text file.
